@@ -1,0 +1,47 @@
+.imagem1{
+    height: 200px;
+    width: 200px;
+
+}
+
+body {
+    background-color: #e9e8dc;
+    }
+
+.text {
+    color: #2F3D40;
+}    
+
+a {
+    color:#214141;
+}
+
+a:hover {
+    color:#226f72
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-top-color: #8DA686;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+    }
+
+h1 {
+    color: #226f72;
+    }
+
+h3 {
+    color:#226f72;
+    }
+
+.stars {
+    color:#166566
+}
+
+#tableheading1 {
+    color: #034646
+}
+
