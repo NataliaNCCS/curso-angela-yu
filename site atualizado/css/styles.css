@@ -117,18 +117,25 @@ hr {
     padding-left: 20px;
 }
 
-.logojs {
+.logobootstrap {
     height: 20%;
     width: 20%;
     float: left;
-    padding-right: 30px;
+    padding-right: 20px;
+}
+
+.logojs {
+    height: 20%;
+    width: 20%;
+    float: right;
+    padding-left: 30px;
 }
 
 .logoen {
     height: 20%;
     width: 20%;
-    float: right;
-    padding-left: 20px;
+    float: left;
+    padding-right: 20px;
 }
 
 .logo {
